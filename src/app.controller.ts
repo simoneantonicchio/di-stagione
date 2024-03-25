@@ -9,4 +9,9 @@ export class AppController {
   getInfo(): any {
     return this.appService.getInfo();
   }
+
+  @Get('data')
+  getData(): any {
+    return this.appService.getData();
+  }
 }

@@ -1,0 +1,680 @@
+{
+   "data": [
+      {
+         "name": "Aglio",
+         "category": 0,
+         "months": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/aglio.jpg?rev=ae8751a4-ad25-4b7c-926d-25d0d0a0b136&mw=200&hash=9A6B9E1FF2D8FA1B00A4C18F3ABA48DC",
+         "details": {
+            "intro": "Con proprietà antibatteriche, antiossidanti e anti-infiammatorie, favorisce la salute cardiaca, regola la pressione e supporta il sistema immunitario.",
+            "description": "",
+            "benefits": "Ferro,Polifenoli",
+            "advice": "Teste d'aglio piene e prive di germogli e di muffe",
+            "preservation": "In un posto fresco, secco e ventilato e al riparo dalla luce."
+         }
+      },
+      {
+         "name": "Albicocca",
+         "category": 1,
+         "months": [
+            6,
+            7
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/albicocca.jpg?rev=9714bd35-3656-4e13-b207-1e821475ca5f&mw=800&hash=C8657E88FBC14D1E5EAC2A91764CF724",
+         "details": {
+            "intro": "Frutto apprezzato fin dall'antichità. Dolce e succoso, possiede importanti proprietà nutritive anche disidratato.",
+            "description": "L'albicocca, o prunus armeniaca, appartiene alla famiglia delle Rosacee come la maggior parte della frutta europea. In Italia la sua coltivazione è concentrata nel sud italia (Campania, Basilicata, Puglia) e in Emila-Romagna.",
+            "benefits": "Vitamina A e C,Potassio,Caroteni",
+            "advice": "Al tatto buccia liscia e vellutata,All’olfatto profumo dolce,Colore arancione,Consistenza morbida ma non molle e senza ammaccature",
+            "preservation": "In frigo massimo per 3/4 giorni."
+         }
+      },
+      {
+         "name": "Ananas",
+         "category": 1,
+         "months": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+         ],
+         "imported": true,
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/ananas.jpg?rev=6fa65c34-ae09-44db-8546-41f028f5e045&mw=800&hash=B57F475C17C6975F4929702E843ECB52",
+         "details": {
+            "intro": "L’alimento ideale per recuperare forza, stimolare il sistema immunitario e drenare i liquidi in eccesso.",
+            "description": "L’ananas è un frutto originario del Brasile, la cui varietà più conosciuta è la Queen victoria, mentre quella più piccola e pregiata è la Cayenne lisse (entrambe quasi sempre importate da paesi tropicali). Rispetto a quanto si crede, non ha alcuna proprietà dimagrante o brucia grassi, bensì ha proprietà digestive: ciò è dovuto alla presenza di un enzima, la bromelina, che aiuta la digestione delle proteine.",
+            "benefits": "Vitamina C,Potassio",
+            "advice": "Colore giallo-arancione,Profumo dolce e intenso",
+            "preservation": "A temperatura ambiente se intero, in frigo in contenitore al massimo per 8 giorni quando è tagliato."
+         }
+      },
+      {
+         "name": "Anguria",
+         "category": 1,
+         "months": [
+            6,
+            7,
+            8
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/anguria.jpg?rev=d7b2200a-08da-41b0-b2b7-a9895c9c5966&mw=800&hash=8A668B5CBC5A8DEC2ED5E6714FC73401",
+         "details": {
+            "intro": "Ricca di acqua, vitamina C e antiossidanti. Favorisce l'idratazione, supporta la salute cardiovascolare e contribuisce a una pelle sana.",
+            "description": "",
+            "benefits": "Vitamina A e C,Caroteni",
+            "advice": "Buccia verde con area gialla,Deve emettere un suono sordo battendo sulla buccia",
+            "preservation": "Intera fuori dal frigo, a pezzi in frigo dentro un contenitore per 10 giorni al massimo."
+         }
+      },
+      {
+         "name": "Arancia",
+         "category": 1,
+         "months": [
+            1,
+            2,
+            3,
+            4,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/arancia.jpg?rev=f21a6850-3eea-46fa-9d53-0543ac2c1c08&mw=200&hash=B48167A8DC7BCFDD723BDE86F036324E",
+         "details": {
+            "intro": "Ricco di vitamina C, antiossidanti e fibre. Favorisce il sistema immunitario, la salute della pelle, e contribuisce alla salute cardiaca e digestiva.",
+            "description": "",
+            "benefits": "Vitamina A e C,Folati,Potassio,Caroteni",
+            "advice": "Colore arancione-rosso a seconda della varietà,Consistenza turgida piena priva di parti molli",
+            "preservation": "1 settimana fuori dal frigo in posto fresco, oppure 2 settimane e mezzo in frigo"
+         }
+      },
+      {
+         "name": "Asparago",
+         "category": 2,
+         "months": [
+            3,
+            4,
+            5
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/asparago.jpg?rev=9379e19d-114f-4910-99c4-a7bd8e67d201&mw=200&hash=BA5C668D293814C06517B87520ACDEAB",
+         "details": {
+            "intro": "Verdure ricche di fibre, vitamine e minerali. Favoriscono la salute digestiva, supportano il sistema immunitario e contribuiscono alla salute delle ossa e della pelle.",
+            "description": "",
+            "benefits": "Vitamina A e C",
+            "advice": "Punte verdi e ben serrate,Fusto dritto e sodo",
+            "preservation": "2/3 giorni avvolti in panno umido in frigorifero."
+         }
+      },
+      {
+         "name": "Avocado",
+         "category": 1,
+         "months": [
+            1,
+            2,
+            3,
+            4,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/avocado.jpg?rev=7b8eefa3-eefc-4277-8fda-c0f6008bda83&mw=200&hash=AB24727F4ECF774725DE539AE64009E1",
+         "details": {
+            "intro": "Frutto ricco di grassi sani, fibre e potassio. Favorisce la salute cardiaca, regola il livello di zucchero nel sangue e supporta la salute della pelle e del cervello.",
+            "description": "",
+            "benefits": "Fibre,Omega 6,Vitamina E,Potassio",
+            "advice": "Buccia rugosa e senza annerimenti,Facendo pressione con un dito la buccia deve cedere senza rompersi",
+            "preservation": "Fuori dal frigo 3 giorni al massimo."
+         }
+      },
+      {
+         "name": "Banana",
+         "category": 1,
+         "imported": true,
+         "months": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/banana.jpg?rev=05ab97b9-2d99-4fbc-92b1-dac8706d544b&mw=200&hash=86C13B8B70EFE833CBF409AE84B9450C",
+         "details": {
+            "intro": "Frutta ricca di potassio, vitamine e fibre. Favorisce la digestione, regola la pressione sanguigna e fornisce energia naturale per il corpo.",
+            "description": "",
+            "benefits": "Fibre,Potassio,Magnesio,Ferro",
+            "advice": "Dal colore giallo senza macchie e ammaccature,Alla pressione di un dito deve cedere ma non spappolarsi",
+            "preservation": "Fuori dal frigo fino a 5 giorni."
+         }
+      },
+      {
+         "name": "Barbabietola",
+         "category": 2,
+         "months": [
+            1,
+            2,
+            8,
+            9,
+            10,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/barbabietola.jpg?rev=071a3b68-35b9-4f57-9239-a2eec2f28236&mw=200&hash=F058E713A4D3661F333B29B45A484B0B",
+         "details": {
+            "intro": "La barbabietola è una radice ricca di nutrienti come vitamine, minerali e antiossidanti. Favorisce la salute del cuore, regola la pressione sanguigna e supporta la funzione cerebrale.",
+            "description": "",
+            "benefits": "Folati,Vitamina C,Potassio,Magnesio,Fosforo",
+            "advice": "Colore rosso brillante,Foglie e steli rigidi e puliti,Corpo non appassito e flaccido",
+            "preservation": "In frigo fino a 5 giorni."
+         }
+      },
+      {
+         "name": "Bietolacosta",
+         "category": 2,
+         "months": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/bietolacosta.jpg?rev=44b2a4a4-2cff-40ea-8ab2-e4d331f0f7ed&mw=200&hash=19C5CC64A9DF51397527400111E78D30",
+         "details": {
+            "intro": "Verdura icca di vitamine A, K e C, oltre a minerali come potassio e magnesio. Favorisce la salute delle ossa, regola la pressione sanguigna e supporta la salute degli occhi.",
+            "description": "",
+            "benefits": "Vitamina A e C,Folati,Potassio,Magnesio,Caroteni",
+            "advice": "Foglie fresche e croccanti e coste tenere e carnose,Evita le coste troppo grosse o fibrose",
+            "preservation": "Avvolgere le foglie in un canovaccio umido e conservarle nel cassetto inferiore del frigorifero. Saranno fresche per circa 3-4 giorni. Mettere invece le coste in un sacchetto di plastica perforato o in un contenitore ermetico e conservarle nel cassetto inferiore del frigorifero. Si manterranno fresche per circa una settimana."
+         }
+      },
+      {
+         "name": "Carciofo",
+         "category": 2,
+         "months": [
+            1,
+            2,
+            3,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/carciofo.jpg?rev=afb594fc-610b-4431-94e2-778bcf9c80e1&mw=200&hash=D06C7E2BC0344508C3FDF18C41FEEB28"
+      },
+      {
+         "name": "Carota",
+         "category": 2,
+         "months": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/carotta.jpg?rev=a7db1911-5db6-482f-ad96-889bb60ba73d&mw=200&hash=0556E99D4A8A103B56936923D1ABFD9D"
+      },
+      {
+         "name": "Cavoli",
+         "category": 2,
+         "months": [
+            1,
+            2,
+            3,
+            4,
+            10,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/cavolo.jpg?rev=c37693ba-87b9-41a4-bcd9-432df35088fc&mw=200&hash=700B44F83BB5F6769605692BC8CDD9E9"
+      },
+      {
+         "name": "Cetriolo",
+         "category": 1,
+         "months": [
+            6,
+            7,
+            8,
+            9
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/cetriolo.jpg?rev=4f064651-eef3-41df-97fa-a88bcb24f213&mw=800&hash=DADF6674EF38C6306F10640881CF9CB1",
+         "details": {
+            "intro": "Composto principalmente d'acqua è ricco di vitamine e minerali. Favorisce l'idratazione, supporta la digestione e apporta antiossidanti benefici per la nostra salute.",
+            "description": "",
+            "benefits": "Vitamina C,Potassio",
+            "advice": "Colore verde intenso e senza macchie,Sodi e con semi teneri",
+            "preservation": "Fino a una settimana in frigorifero. Se già tagliato, avvolgilo in della pellicola trasparente."
+         }
+      },
+      {
+         "name": "Ciliegia",
+         "category": 1,
+         "months": [
+            5,
+            6,
+            7
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/ciliegia.jpg?rev=aaf9780b-d02c-4420-8207-38f4a751e21b&mw=800&hash=916695B03F705F4AA55BEAF1C99B399E"
+      },
+      {
+         "name": "Cime di rape",
+         "category": 2,
+         "months": [
+            1,
+            2,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/cime%20di%20rapa.jpg?rev=c8651644-24c0-486f-a6b8-98560474d900&mw=200&hash=08BBC66718B8CD8B60BCF1759E3BBA3A"
+      },
+      {
+         "name": "Clementine",
+         "category": 1,
+         "months": [
+            1,
+            2,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/clementine3.jpg?rev=e8f22076-09eb-49fa-a1df-2f1268f5ed75&mw=200&hash=CEFF082693CF06A3BE7ED634B0EF1EA1"
+      },
+      {
+         "name": "Cocco",
+         "category": 1,
+         "imported": true,
+         "months": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/ocu/images/home/alimentacion/alimentos/coco.png?rev=c7e15cf7-a866-4099-8ed6-a7c8935880d7&mw=200&hash=F18C51D17341551890B18B315A693934"
+      },
+      {
+         "name": "Fagiolini",
+         "category": 2,
+         "months": [
+            6,
+            7,
+            8,
+            9
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/fagiolini.jpg?rev=4ae7e5b3-6685-47f3-a332-40e2ba73e3a1&mw=800&hash=8545190413C57ACE0D4B18A909C22742",
+         "details": {
+            "intro": "Basso contenuto calorico, ricchi di fibre, vitamine e minerali. Contribuiscono alla salute digestiva, mantengono la pressione arteriosa e favoriscono il sistema immunitario.",
+            "description": "",
+            "benefits": "Vitamina A e C,Folati,Potassio,Fosforo,Caroteni",
+            "advice": "Semi in rilievo,Colore vivo e brillante senza macchie",
+            "preservation": "Fino a 5 giorni in frigorifero."
+         }
+      },
+      {
+         "name": "Fave",
+         "category": 2,
+         "months": [
+            4,
+            5,
+            6
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/fava.jpg?rev=a15f9f73-cb6e-4224-be90-0061e15c07df&mw=200&hash=C5905D1D1E7DBB98A6B8006731DF32F5"
+      },
+      {
+         "name": "Finocchio",
+         "category": 2,
+         "months": [
+            1,
+            2,
+            3,
+            4,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/finocchi.jpg?rev=5e95e766-5aeb-4b2d-8125-f87d29afdaca&mw=200&hash=420A31C5A610684E6A692B90B6D14B16"
+      },
+      {
+         "name": "Fragole",
+         "category": 1,
+         "months": [
+            4,
+            5,
+            6
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/fragola.jpg?rev=425620f2-f372-4caf-b68a-9ed51f8c4b32&mw=200&hash=4C4002D600A00FF0497063F5508CEA4B"
+      },
+      {
+         "name": "Insalata",
+         "category": 2,
+         "months": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/insalata.jpg?rev=3b8c9e2e-8f0c-4bf8-ae06-b601c5e16a0b&mw=200&hash=FA704BB507050086DAF6F0F74003B952"
+      },
+      {
+         "name": "Kiwi",
+         "category": 1,
+         "months": [
+            1,
+            2,
+            3,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/kiwi.jpg?rev=06900372-ca08-440d-a358-85269c7a55db&mw=200&hash=F18657AF3F57B3189059BF7926F5FB5E"
+      },
+      {
+         "name": "Lampone",
+         "category": 1,
+         "months": [
+            6,
+            7,
+            8,
+            9
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/lampone.jpg?rev=57581179-b204-4c0d-9b41-a20d1daf90ed&mw=800&hash=FF61D08E8A24B3D7A2AC5417BA5257D5"
+      },
+      {
+         "name": "Lime",
+         "category": 1,
+         "imported": true,
+         "months": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/lime.jpg?rev=6a69b8c8-1fb2-44d8-b64a-fcace8b17503&mw=200&hash=B54F0725FBEA40B9308B737D8D6D9315"
+      },
+      {
+         "name": "Limone",
+         "category": 1,
+         "months": [
+            1,
+            2,
+            3,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/limone.jpg?rev=dcc5e491-b55b-4e77-b29d-11dfc1dd9dd4&mw=200&hash=5FE594BF38490F14787327A07DD69F7E"
+      },
+      {
+         "name": "Lichi",
+         "category": 1,
+         "months": [
+            1,
+            2,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/litches.jpg?rev=39a4a8bb-8787-4902-a123-73bdd853bbe9&mw=200&hash=53F0F11381D130FDAE4C2C91BDF036C2"
+      },
+      {
+         "name": "Mandarino",
+         "category": 1,
+         "months": [
+            1,
+            2,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/mandarino.jpg?rev=e4908e36-ee3a-4fbe-8044-23c449716adf&mw=200&hash=07CBC029B3D9BCEB429BF7A322C9BDF6"
+      },
+      {
+         "name": "Mela",
+         "category": 1,
+         "months": [
+            1,
+            2,
+            9,
+            10,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/mela.jpg?rev=21383246-8c4f-4875-8cbf-3665e2321124&mw=200&hash=D96DF44788ABAD08C2CEA003CBAAFACE"
+      },
+      {
+         "name": "Melone",
+         "category": 1,
+         "months": [
+            5,
+            6,
+            7,
+            8,
+            9
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/melone.jpg?rev=2d70ab81-2946-4d6e-b8c8-5f69eb69807a&mw=800&hash=38A2932FEF01A4C20B3D95B215B51CBC"
+      },
+      {
+         "name": "Nespola",
+         "category": 1,
+         "months": [
+            4,
+            5
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/nespola.jpg?rev=d82dacc4-a6f0-43f0-9d4e-8d469e36994d&mw=200&hash=E046B5081AA170F747D84AFA2D716716"
+      },
+      {
+         "name": "Patata",
+         "category": 0,
+         "months": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/patata.jpg?rev=13d5e48f-8253-4059-8197-f713b01af55e&mw=200&hash=B82ED8CCD0D355FDFAFC6744550AD62D"
+      },
+      {
+         "name": "Peperone",
+         "category": 2,
+         "months": [
+            5,
+            6,
+            7,
+            8,
+            9
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/peperone.jpg?rev=0fd0411a-6e1f-4d95-a662-00e8dfde9eb1&mw=800&hash=9D239D3E296E6BA275752D103AAA48B3"
+      },
+      {
+         "name": "Pera",
+         "category": 1,
+         "months": [
+            1,
+            8,
+            9,
+            10,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/pera.jpg?rev=bd499b7f-d24c-4988-a597-8a2193fc0945&mw=200&hash=8C9D31863B8E34C7C9F2C8A7A8B56006"
+      },
+      {
+         "name": "Piselli",
+         "category": 2,
+         "months": [
+            4,
+            5
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/piselli.jpg?rev=f556debe-2e10-4acf-a345-c9263491ba57&mw=800&hash=5A2B6CC5625AD0A129C393689332F6D9"
+      },
+      {
+         "name": "Pompelmo",
+         "category": 1,
+         "months": [
+            1,
+            2,
+            3,
+            4,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/pompelmo.jpg?rev=b3454bab-e5d2-4e85-876e-4734e1a4aaf5&mw=200&hash=ED89AA6A32C5446F27FE7F904450620A"
+      },
+      {
+         "name": "Pomodoro",
+         "category": 2,
+         "months": [
+            5,
+            6,
+            7,
+            8,
+            9
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/pomodoro.jpg?rev=d0de3086-24e3-4bf3-a70a-9e550a125c65&mw=800&hash=DC9B0FD7451CB77A3DD4A390696BC9D9"
+      },
+      {
+         "name": "Porro",
+         "category": 2,
+         "months": [
+            1,
+            2,
+            10,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/porro.jpg?rev=592fff28-7b42-492f-9031-ba50baeb94ac&mw=200&hash=C48304609CC8B7B859480241FC151474"
+      },
+      {
+         "name": "Ravanello",
+         "category": 2,
+         "months": [
+            5,
+            6,
+            7,
+            8,
+            9
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/ravanelli.jpg?rev=bc838ea3-c75f-4979-8fcb-b8fcff134150&mw=800&hash=339BD60836411C8FA7704BB72995BE12"
+      },
+      {
+         "name": "Sedano",
+         "category": 2,
+         "months": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/sedano2.jpg?rev=c7f5e26f-f8d4-4263-9889-e1cfd1cf9ac4&mw=800&hash=EBB960695CD0CC2EB9BCD3B75B9A57E8"
+      },
+      {
+         "name": "Spinacio",
+         "category": 2,
+         "months": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            9,
+            10,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/spinacio.jpg?rev=59fdb55f-981b-45d1-968d-d2cab6033b69&mw=200&hash=9B702F2EBC45A57689D40A0FF59C3500"
+      },
+      {
+         "name": "Topinambur",
+         "category": 0,
+         "months": [
+            1,
+            2,
+            3,
+            10,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/topinambur.jpg?rev=586a91f0-d83b-49b7-b4a0-4a46d1c4001b&mw=200&hash=50289A5E27645E1CC72928984AA26F83"
+      },
+      {
+         "name": "Zucca",
+         "category": 2,
+         "months": [
+            1,
+            2,
+            9,
+            10,
+            11,
+            12
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/zucca.jpg?rev=fdd3fef8-028a-4210-b4c0-af9924b73fc3&mw=200&hash=88445133A9EAFE4FCEF7C882CCB193A7"
+      },
+      {
+         "name": "Zucchina",
+         "category": 2,
+         "months": [
+            5,
+            6,
+            7,
+            8
+         ],
+         "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/zucchine.jpg?rev=ef566dae-7f4d-4f64-a212-20929a610e36&mw=800&hash=81DAC37A60C7C17C546C5E6CD62845B5"
+      }
+   ]
+}

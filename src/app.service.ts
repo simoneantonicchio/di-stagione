@@ -1,4 +1,4 @@
-import { Injectable, NotFoundException } from '@nestjs/common';
+import { Injectable, Logger, NotFoundException } from '@nestjs/common';
 import { readFileSync } from 'fs';
 
 function retrieveData(filename: string) {
@@ -13,7 +13,9 @@ function retrieveData(filename: string) {
 
 @Injectable()
 export class AppService {
+  private readonly logger = new Logger(AppService.name);
   getInfo(): any {
+    this.logger.debug('called getInfo()');
     return retrieveData('info.json');
   }
 

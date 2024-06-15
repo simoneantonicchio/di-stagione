@@ -6,8 +6,8 @@ import { AppService } from 'src/app.service';
 export class CronjobsService {
   constructor(private readonly appService: AppService) {}
 
-  // forces a getInfo call every 14 minutes between 6am and midnight (local time)
-  @Cron('0 */14 6-24 * * *')
+  // forces a getInfo call every 14 minutes between 7am and midnight (local time)
+  @Cron('0 */14 7-23 * * *')
   forceGetInfoCall() {
     this.appService.getInfo();
   }

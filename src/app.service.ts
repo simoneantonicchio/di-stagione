@@ -15,7 +15,7 @@ function retrieveData(filename: string) {
 export class AppService {
   private readonly logger = new Logger(AppService.name);
   getInfo(): any {
-    this.logger.debug('called getInfo()');
+    this.logger.debug('reads json file');
     return retrieveData('info.json');
   }
 

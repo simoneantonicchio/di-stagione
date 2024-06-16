@@ -1,6 +1,8 @@
 import { HttpService } from '@nestjs/axios';
 import { Injectable, Logger } from '@nestjs/common';
 import { Cron } from '@nestjs/schedule';
+import { AxiosError } from 'axios';
+import { catchError, firstValueFrom } from 'rxjs';
 
 @Injectable()
 export class CronjobsService {
@@ -10,9 +12,16 @@ export class CronjobsService {
   // forces a getInfo call every 14 minutes between 7am and midnight (local time)
   @Cron('0 */1 7-23 * * *', {
     timeZone: 'Europe/Rome',
-  })
-  forceGetInfoCall() {
-    this.logger.debug('calls API');
-    this.httpService.get('https://distagione.onrender.com/info');
+  })    
+  async forceGetInfoCall(): Promise<any> {
+    const { data } = await firstValueFrom<any>(
+      this.httpService.get<any>('https://distagione.onrender.com/info').pipe(
+        catchError((error: AxiosError) => {
+          this.logger.error(error.response.data);
+          throw 'An error happened!';
+        }),
+      ),
+    );
+    this.logger.debug(JSON.stringify(data));
   }
 }

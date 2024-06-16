@@ -9,8 +9,8 @@ export class CronjobsService {
   constructor(private readonly httpService: HttpService) {}
   private readonly logger = new Logger(CronjobsService.name);
 
-  // forces a getInfo call every 14 minutes between 7am and midnight (local time)
-  @Cron('0 */1 7-23 * * *', {
+  // forces a getInfo call every 13 minutes between 7am and midnight (local time)
+  @Cron('0 */13 7-23 * * *', {
     timeZone: 'Europe/Rome',
   })    
   async forceGetInfoCall(): Promise<any> {
@@ -22,6 +22,6 @@ export class CronjobsService {
         }),
       ),
     );
-    this.logger.debug(JSON.stringify(data));
+    this.logger.debug(`/info api json response: ${JSON.stringify(data)}`);
   }
 }

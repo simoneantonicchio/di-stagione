@@ -31,6 +31,7 @@
        "name":"Alchechengi",
        "category": 1,
        "months":[7,8,9,10],
+       "imported" : true,
        "early": [7],
        "late": [10],
        "img": "https://tinypic.host/images/2024/08/30/alchechengi.png",
@@ -100,6 +101,7 @@
        "name":"Avocado",
        "category": 1,
        "months":[1,2,3,4,11,12],
+       "imported" : true,
        "early": [11],
        "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/avocado.jpg?rev=7b8eefa3-eefc-4277-8fda-c0f6008bda83&mw=200&hash=AB24727F4ECF774725DE539AE64009E1",
         "details":{
@@ -470,9 +472,10 @@
        }
      },
      {
-       "name":"Lichi",
+       "name":"Litchi",
        "category": 1,
        "months":[1,2,11,12],
+       "imported" : true,
        "early": [11],
        "late":[12],
        "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/litches.jpg?rev=39a4a8bb-8787-4902-a123-73bdd853bbe9&mw=200&hash=53F0F11381D130FDAE4C2C91BDF036C2",
@@ -501,6 +504,7 @@
        "name":"Mango",
        "category": 1,
        "months":[8,9,10],
+       "imported" : true,
        "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/mango.jpg?rev=6b86d506-c67b-410f-b636-861413475875&mw=800&hash=689A069EBC2E203AEA37D2E262838AD4",
        "details":{
          "intro": "Un concentrato di vitamina A, vitamina C e fibre per un gusto tropicale e un supporto alla salute della pelle e del sistema immunitario.",
@@ -610,6 +614,7 @@
        "name":"Papaya",
        "category": 1,
        "months":[7,8,9,10,11,12],
+       "imported" : true,
        "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/papaya.jpg?rev=44c6d71d-088a-4000-8b37-537e112581fb&mw=800&hash=B09DAC97E54C9F1DE29E053234995349",
        "details":{
          "intro": "Un concentrato di vitamina C, enzimi digestivi e antiossidanti per un gusto tropicale e un supporto alla salute digestiva e immunitaria.",
@@ -620,9 +625,10 @@
        }
      },
      {
-       "name":"Passion fruit",
+       "name":"Frutto della passione",
        "category": 1,
        "months":[6,7,8,9,10,11,12],
+       "imported" : true,
        "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/passion%20fruit.jpg?rev=ed1d40f1-92c9-43d3-a51d-fea778fce1bb&mw=800&hash=DB1E9950B1E2B0809FF8FD0FA342AD16",
        "details":{
          "intro": "Un concentrato di vitamina A, vitamina C e fibre per un gusto esotico e un supporto alla salute della pelle e del sistema digestivo.",

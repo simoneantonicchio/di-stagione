@@ -375,8 +375,8 @@
        "name":"Finocchio",
        "category": 2,
        "months":[1,2,3,4,5,10,11,12],
-       "early": [5],
-       "late": [10],
+       "early": [10],
+       "late": [5],
        "img": "https://www.altroconsumo.it/-/media/altroconsumo/images/home/alimentazione/la%20spesa%20che%20sfida/frutta/imm,-d-,%20frutta%20e%20verdure%20640x360/finocchi.jpg?rev=5e95e766-5aeb-4b2d-8125-f87d29afdaca&mw=200&hash=420A31C5A610684E6A692B90B6D14B16",
        "details":{
          "intro": "Nel finocchio si cela un tesoro di benessere: fibre per una digestione felice, potassio per un cuore sereno, vitamine e minerali per un sistema immunitario forte. Un ortaggio dal gusto croccante che regala salute in ogni stagione.",
